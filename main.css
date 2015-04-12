@@ -1,0 +1,133 @@
+body {
+width: auto;
+height: auto;
+margin: 0 auto;}
+.content {overflow: auto;}
+.nav, .feature{
+margin: 1%;}
+.column1, .column2, .column3 {
+width: 31.3%;
+float: left;
+margin: 1%;}
+.column3 {margin-right: 0%;}
+li {
+display: inline;
+padding: 0.5em;}
+.nav {
+background-color: #efefef;
+padding: 0.5em 0;}
+.feature, .article {
+height: 10em;
+margin-bottom: 1em;
+background-color: #efefef;}
+.header{
+font-family: Tahoma;
+font-size: 18px;
+color: #FFF;
+background-color: black;
+text-align: center;
+width: 100%;
+position: relative;
+height: 25px;
+margin: 0px auto;
+border: 1px;
+display: inline-block;
+}
+.mainbanner{
+    height: 515px;
+    background-image: url(TRIABANN3.jpg);
+    width: 100%;
+    background-position: center center;
+}
+.nav{
+width: auto;    
+background-color:black;
+margin:0 auto;
+font-size: 35px;
+}
+.nav_wrapper{
+width:auto;
+margin: 0 auto;
+text-align:left;
+padding: 0;
+}
+.nav ul{
+list-style-type:none;
+padding:0;
+margin:0 auto;
+position:relative;
+text-align:center;
+}
+
+.nav ul li{
+display: inline-block;
+text-align:left;
+padding:0;
+margin:0 auto;
+}
+
+.nav ul li a:hover{
+background-color: white;
+color: black; 
+}
+.nav li a{
+    border-radius: 25px;
+    border: 2px solid #00B8E6;
+    padding: 15px; 
+    width: 280px;
+    height: 30px; 
+    text-align: center;
+}
+
+.nav li a,visited{
+color:black;
+display:block;
+padding: 15px;
+text-decoration: none;
+}
+
+.nav ul li a,hover{
+color: white;
+text-decoration:none;
+}
+.feature{
+    font-size: 30px;
+    border-radius: 25px;
+    border: 2px solid #FF3300;
+    padding: 15px; 
+    width: auto;
+    height: auto;
+}
+.column1, .column3{
+    font-size: 18px;
+    border-radius: 25px;
+    border: 2px solid #339933;
+    height: auto;
+}
+.columna1, .columna3{
+    margin: 2%;}
+.subti{
+    color: #0099FF;
+    margin: 3%;
+}
+.footer{
+font-family: Tahoma;
+font-size: 18px;
+color: #FFF;
+background-color: black;
+text-align: center;
+height: 120px;
+margin: 0 auto;
+border: 1px;
+}
+.footermessage{
+display: inline-block;
+text-align:end;
+}
+.footerinfo ul li a{
+    text-decoration: none;
+    color: white;
+}
+.footerinfo ul li a:hover{
+    color: #1F7A7A;
+}

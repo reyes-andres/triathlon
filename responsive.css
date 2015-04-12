@@ -1,0 +1,17 @@
+.nav{
+ width: auto; 
+ margin-right: 0;
+}
+.nav_wrapper li{
+ width: 65%; 
+}
+.nav ul li a{
+  width: auto;
+  height: auto;
+}
+
+.banner{
+background-position: center center;
+width: auto;
+height: auto;
+}
